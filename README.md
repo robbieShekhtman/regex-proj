@@ -2,4 +2,4 @@ This project demonstrates how to parse and compare regular expressions using NFA
 
 Supported regex operations: * (Kleene's star), + (one or more), ? (zero or one), | (alternation), . (single char matching), and () (grouping)
 
-The bottom of the script contains a various tests to asses the functionality of each operation as well as 6 more complex regex expressions to ensure full coverage and completeness.
+The bottom of the script contains a various tests to asses the functionality of each operation as well as 6 more complex regex's to ensure full coverage and completeness.
